@@ -11,10 +11,6 @@ Repositório responsável pela artigo escrito no dev.to **[AQUI]()** em como des
 * **[Azure Storage Account](https://azure.microsoft.com/services/storage/?WT.mc_id=javascript-0000-gllemos)**
 * **[Conta - Azure](https://azure.microsoft.com/?WT.mc_id=javascript-0000-gllemos)**
 
-## Conta - Azure for Students ⭐️
-
-Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**
-
 # Executando a Aplicação Localmente ❗️
 
 1. Instalar as dependências locais executando o comando:
