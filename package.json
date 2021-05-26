@@ -1,0 +1,45 @@
+{
+  "name": "intro-star-wars",
+  "version": "1.0.0",
+  "description": "Desenvolvimento da Intro do Star Wars com deploy no Azure.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon",
+    "lint": "eslint --ext .js -f ./node_modules/eslint-friendly-formatter . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayanaprata/intro-star-wars"
+  },
+  "keywords": [
+    "nodejs",
+    "azure",
+    "javascript",
+    "express"
+  ],
+  "author": "Rayana Prata",
+  "license": "MIT",
+  "homepage": "https://github.com/rayanaprata/intro-star-wars#readme",
+  "dependencies": {
+    "eslint-friendly-formatter": "^4.0.1",
+    "express": "^4.17.1",
+    "prettier": "^1.19.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "husky": "^3.1.0",
+    "nodemon": "^2.0.7"
+  },
+  "husky": {
+    "pre-commit": "lint-staged",
+    "pre-push": "npm run lint"
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}
