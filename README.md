@@ -33,10 +33,6 @@ Repositório responsável pela artigo escrito no dev.to **[AQUI]()** em como des
 * ✅ **[Implantando Aplicações Node.js no Azure](https://code.visualstudio.com/docs/azure/deployment?WT.mc_id=javascript-0000-gllemos)**
 * ✅ **[Cursos Online Grátis - Microsoft Learn](https://docs.microsoft.com/learn/?WT.mc_id=javascript-0000-gllemos)**
 
-## Aplicação Disponível On-line!
-
-Caso desejam ver a aplicação executando na web, bastam acessar o link **[AQUI](https://introstarwarsapp.z19.web.core.windows.net/)**
-
 ## Tenho Dúvidas... O que Faço?! 🚩
 
 Caso tenha dúvidas ao código desenvolvido, sinta-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/intro-starwars-app/issues)** no repositório com a sua dúvida.
