@@ -1,6 +1,6 @@
 # Demo - Intro Star Wars com HTML, CSS, JavaScript & Node.js!
 
-![introstarwars](image/star-wars.gif)
+![introstarwars](image/Animação.gif)
 
 Repositório responsável pela artigo escrito no dev.to **[AQUI]()** em como desenvolver a intro do Star Wars com Node.js & Express.js.
 
